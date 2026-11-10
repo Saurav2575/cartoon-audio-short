@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and system
+*.log
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
